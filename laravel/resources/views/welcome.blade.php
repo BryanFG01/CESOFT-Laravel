@@ -23,7 +23,7 @@
                 <h1 class="text-center mb-4">Aprendizaje Personal e Intimo Para Toda la Vida
                 </h1>
                 <div id="Img" class="mb-5 text-center">
-                    <img src="" alt="">
+                    <img src="{{ asset('IMG/cropped-cropped-LogoCESOFT_2023-q1lj3y9xty7wt8wacvinizb62gg1ks348z0hrt31t0.png') }}" alt="">
                 </div>
                 <p class="text-center">CONSULTORÍA ESTRATÉGICA SOFT COLOMBIA
                 </p>
